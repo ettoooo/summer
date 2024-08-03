@@ -1,0 +1,80 @@
+body{
+    background-color: #77DD77;
+}
+.img-gav{
+    width: 300px;
+}
+.header{
+    font-size: 30px;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+.img-us{
+    float: left;
+    width: 200px;
+}
+.eco{
+    float: right;
+    width: 200px;
+}
+.container {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+   }
+   
+   img {
+     max-width: 100%;
+     max-height:100%;
+   }
+   
+   .text {
+     font-size: 20px;
+   }
+.img-tso{
+    float: right;
+    width: 200px;
+}
+.para{
+    font-size: 20px;
+}
+.drem{
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: bold;
+}
+.dam{
+    font-size: 20px;
+    font-style: oblique;
+}
+.img-day{
+    float: left;
+    width: 200px;
+}
+.day{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+.button{
+    color: black;
+    border: 2px solid lightseagreen;
+    background-color: lightblue;
+}
+.bday{
+    font-size: 20px;
+    font-weight: bold;
+}
+.your{
+    float: right;
+    width: 200px;
+}
+.shadow{
+    float: left;
+    width: 200px;
+}
+.gold{
+    float: right;
+    width: 200px;
+}
+
